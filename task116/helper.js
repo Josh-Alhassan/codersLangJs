@@ -1,0 +1,1 @@
+export const strings = ['content', 'writing', 'coding', 'javascript', 'language'];
